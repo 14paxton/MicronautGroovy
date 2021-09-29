@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.getgud
+testFramework: spock
+sourceLanguage: groovy
+buildTool: gradle
+features: [annotation-api, app-name, gradle, groovy, groovy-application, hibernate-gorm, hibernate-validator, http-client, jdbc-hikari, logback, mysql, netty-server, properties, readme, rxjava3, rxjava3-http-client, shade, spock, testcontainers]
